@@ -1,0 +1,7 @@
+names:
+  0: target
+nc: 1
+path: datasets/SIRST_yolo
+test: images/test
+train: images/train
+val: images/val
