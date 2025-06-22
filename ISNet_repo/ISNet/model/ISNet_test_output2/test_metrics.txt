@@ -1,0 +1,4 @@
+📊 Test Metrikleri
+IoU ortalaması      : 0.6066
+Precision ortalaması: 0.6814
+Recall ortalaması   : 0.8639
